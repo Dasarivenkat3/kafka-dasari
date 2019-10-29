@@ -1,1 +1,4 @@
-# kafka-dasari
+
+Compile the code using 
+
+mvn compile assembly:single

@@ -1,0 +1,1 @@
+java -cp target/KafkaDasari-1.0-SNAPSHOT-jar-with-dependencies.jar com.dasari.kafka.simple.Producer test
